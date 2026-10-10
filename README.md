@@ -35,4 +35,4 @@ python3 -m http.server 8000 --bind 0.0.0.0
 
 The cloud onboarding environment supports internal validation, rather than a shareable live preview. Use GitHub Pages for a link to send to Sophia.
 
-No packages, credentials, database, or build step are needed. Decorative fonts load from Google Fonts when available; the page uses fallback fonts offline.
+No packages, credentials, database, or build step are needed. The handwritten font is bundled locally in `assets/`, with its open-source license. No external services or tracking are used.
